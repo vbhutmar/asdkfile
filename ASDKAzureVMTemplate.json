@@ -66,6 +66,7 @@
 		},
 		"vhdUri": {
 			"type": "string",
+			"defaultValue": "https://asdkbuilder.blob.core.windows.net/asdkbuilderfile/Cloudbuilder.vhd",
 			"metadata": {
 				"description": "The url for Cloudbuilder.vhd in the subscription"
 			}
